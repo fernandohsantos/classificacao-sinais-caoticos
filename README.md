@@ -67,4 +67,5 @@
 📌 [Article reference (SBrT 2022)](https://biblioteca.sbrt.org.br/articlefile/3670.pdf)  
 💻 [Code repository](https://github.com/fernandohsantos/classificacao-sinais-caoticos)  
 
+https://gist.github.com/3127d56edde6f21b195b9eff21aea814.git
 
